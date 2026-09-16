@@ -1,5 +1,5 @@
-﻿using Tyuiu.KaraschukNE.Sprint0.Task4.Lib;
-namespace Tyuiu.KaraschukNE.Sprint0.Task4.Test
+﻿using Tyuiu.KaraschukNE.Sprint0.Task5.Lib;
+namespace Tyuiu.KaraschukNE.Sprint0.Task5.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -26,4 +26,3 @@ namespace Tyuiu.KaraschukNE.Sprint0.Task4.Test
         }
     }
 }
-
